@@ -1,1 +1,1 @@
-# image_classifier
+# image_classifier_model
